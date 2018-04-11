@@ -1,0 +1,2 @@
+# kerasex
+exercises on Keras
